@@ -26,4 +26,4 @@ From Data Analyst and Deep Learning to Software Engineer.
 <br />
 
 ### Current Stat
-![Luxin's github stats](https://github-readme-stats.vercel.app/api?username=LuxinZhang902)
+# ![Luxin's github stats](https://github-readme-stats.vercel.app/api?username=LuxinZhang902)
