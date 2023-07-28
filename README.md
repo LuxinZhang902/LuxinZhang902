@@ -25,5 +25,8 @@ From Data Analyst and Deep Learning to Software Engineer.
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <br />
 
+<a href="https://github.com/Vetrivel-VP" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vetrivel-VP&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
 ### Current Stat
 # ![Luxin's github stats](https://github-readme-stats.vercel.app/api?username=LuxinZhang902)
