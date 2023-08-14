@@ -31,9 +31,5 @@ From Data Analyst and Deep Learning to Software Engineer.
 ### Current Stat
 # ![Luxin's github stats](https://github-readme-stats.vercel.app/api?username=LuxinZhang902)
 
-![Luxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiranran&show_icons=true&count_private=true&hide=prs&theme=default)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yiranran&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Top Languages
 <a href="https://github.com/Vetrivel-VP" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vetrivel-VP&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
