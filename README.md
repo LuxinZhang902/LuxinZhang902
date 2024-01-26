@@ -1,7 +1,7 @@
 # Luxin Zhang
 
 ```
-Software Engineer (Full-stack/Computer Version/Machine Learning)
+Software Engineer (Full-stack/AI/Computer Version/Machine Learning)
 ```
 
 A Software Engineer Enthusiastic about technology. Passionate on exploring new and making a difference. 
